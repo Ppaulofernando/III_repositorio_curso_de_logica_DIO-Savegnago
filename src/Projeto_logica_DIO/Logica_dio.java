@@ -32,7 +32,7 @@ public class Logica_dio {
 		int multi;
 		int nivel = 0;
 
-		multi = (int) (Math.random() * 11 + 1);
+		multi = (int) (Math.random() * 12);
 
 		for (int i = 1; i <= multi; i++) {
 			nivel = nivel + 1;
